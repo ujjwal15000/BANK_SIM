@@ -1,0 +1,2 @@
+we have first created a customer with some initial money and each customer has a money whict uses the Money which has all the addition and deletion operation functions.
+also the customer has the debit and credit features.
